@@ -41,7 +41,9 @@
 
 5. Return True if ***Multiple copies(subString) = String***
     - If there isn't such substring it'll not return true, instead will return false
-    ` if( subString.equals(s) )   return true; `
+    ```
+    if( subString.equals(s) )   return true;
+    ```
 
 # Complexity
 - Time complexity: **O(n)**, Where n = Length(String)/2
