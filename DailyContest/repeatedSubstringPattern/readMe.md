@@ -8,7 +8,7 @@
 2. Traverse the string from index-(0) to index-(length/2)
     `for(short i=0; (i<length/2); i++)`
 <p align="center">
-<img src="https://assets.leetcode.com/users/images/d8555677-a157-4206-9775-65f7f16ca002_1692596930.0106654.gif" width="400" height="600"/>
+<img src="https://assets.leetcode.com/users/images/d8555677-a157-4206-9775-65f7f16ca002_1692596930.0106654.gif" width="400" height="300"/>
 </p>
 
 ---
@@ -17,7 +17,7 @@
     - Because a substring should be a multiple copies of main string
     ` length%(i+1)==0 `
 <p align="center">
-<img src="https://assets.leetcode.com/users/images/948408ca-df51-43c3-a994-0334cbf07300_1692600272.6266916.jpeg" width="600" height="600"/>
+<img src="https://assets.leetcode.com/users/images/948408ca-df51-43c3-a994-0334cbf07300_1692600272.6266916.jpeg" width="500" height="400"/>
 
 ---
 
@@ -27,7 +27,7 @@
     ` // Repeat  substring for Length(string)/Length(subString) times`
     ` subString = subString.repeat(length/(i+1)); `
 <p align="center">
-<img src="https://assets.leetcode.com/users/images/04a598dd-42fb-4b72-b516-c1e3cfa6b270_1692602630.2253296.jpeg" width="600" height="600"/>
+<img src="https://assets.leetcode.com/users/images/04a598dd-42fb-4b72-b516-c1e3cfa6b270_1692602630.2253296.jpeg" width="500" height="400"/>
 
 ---
 
