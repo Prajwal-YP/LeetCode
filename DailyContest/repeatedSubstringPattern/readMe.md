@@ -12,7 +12,7 @@
     for(short i=0; (i<length/2); i++)
     ```
 <p align="center">
-<img src="https://assets.leetcode.com/users/images/d8555677-a157-4206-9775-65f7f16ca002_1692596930.0106654.gif" width="400" height="100"/>
+<img src="https://assets.leetcode.com/users/images/d8555677-a157-4206-9775-65f7f16ca002_1692596930.0106654.gif" width="400" height="150"/>
 </p>
 
 ---
